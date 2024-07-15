@@ -13,6 +13,11 @@ export default {
       title: 'tutor Email',
       type: 'string',
     },
+    {
+      name: 'tutordescription',
+      title: 'Tutor Descriptions',
+      type: 'string',
+    },
   ],
 }
 // this schema files
